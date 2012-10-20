@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Mas que Palabras";
+}
+<style>
+	#feedback { font-size: 1.4em; }
+	#sel-ministerios li:hover { background: #FECA40; cursor:pointer; }
+	#sel-ministerios { list-style-type: none; margin: 0; padding: 0; }
+	#sel-ministerios li { margin: 3px; padding: 1px; float: left; width: 100px; height: 100px; font-size: 1em; text-align: center; background: #F39814; color: white;}
+	</style>
+	<script type="text/javascript">
+	    $(function () {
+	        $("#sel-ministerios").selectable();
+	    });
+	</script>
+<div id="infoholder">
+    <div id="tema_mes">Tema del Mes: Puestos los Ojos en Jesús</div>
+    <div id="info">
+        <div id="ministerios">
+            Ministerios
+            <br />
+            <ol id="sel-ministerios">
+	            <li class="ui-state-default">Ministerio Juvenil "Jehova Nisi"</li>
+	            <li class="ui-state-default">Ministerio Femenil "Siervas de Cristo"</li>
+	            <li class="ui-state-default">Ministerio Infantil "Seguidores de Jesús"</li>
+	            <li class="ui-state-default">Ministerio de Varones</li>
+	            <li class="ui-state-default">Mision "Emmanuel"</li>
+	            <li class="ui-state-default">Grupos de Estudio Dominical</li>
+	            <li class="ui-state-default">Ministerio de Oración</li>
+	            <li class="ui-state-default">Ministerio de Alabanza</li>
+            </ol>
+        </div>
+        <div id="direccion">
+            Localización
+            <br />
+            <iframe width="220" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/?ie=UTF8&amp;t=h&amp;layer=c&amp;panoid=56ra-ETEegafKUQe5hP1fA&amp;cbll=21.165639,-86.872854&amp;cbp=13,128.64,,0,0.82&amp;source=embed&amp;ll=11.436955,-86.835937&amp;spn=33.979631,38.671875&amp;z=3&amp;output=svembed"></iframe><br /><small><a href="https://maps.google.com/?ie=UTF8&amp;t=h&amp;layer=c&amp;panoid=56ra-ETEegafKUQe5hP1fA&amp;cbll=21.165639,-86.872854&amp;cbp=13,128.64,,0,0.82&amp;source=embed&amp;ll=11.436955,-86.835937&amp;spn=33.979631,38.671875&amp;z=3" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+        </div>
+    </div>
+    <div id="message">
+    </div>
+    <div id="facebook">
+    <div class="fb-like-box" data-href="http://www.facebook.com/IprmSinai" data-width="292" data-height="500" data-show-faces="true" data-stream="true" data-header="true"></div>
+    </div>
+</div>

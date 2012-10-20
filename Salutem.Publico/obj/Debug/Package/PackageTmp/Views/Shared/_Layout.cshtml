@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title - IPRM Sinai</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width" />
+        @Styles.Render("~/Content/themes/base/css", "~/Content/css")
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/jqueryui")
+    </head>
+    <body>
+    <!-- Facebook -->
+        <div id="fb-root"></div>
+        <script>    (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=300804529994562";
+                fjs.parentNode.insertBefore(js, fjs);
+            } (document, 'script', 'facebook-jssdk'));
+        </script>
+        <!-- end facebook -->
+        <header>
+        <div id="border">
+        </div>
+        <div id="titulo_principal">
+            <img src="~/Images/logo.png" class="logo"/>
+            <img src="~/Images/slogan.png" class="slogan"/>               
+        </div>
+        </header>
+        <div id="body">
+            <section class="contenido">
+                <div>
+                    @RenderBody()
+                </div>
+            </section>
+        </div>
+        <footer>
+            <div class="contenido">
+                <p>&copy; @DateTime.Now.Year - Quimank Co.</p>
+            </div>
+        </footer>
+
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

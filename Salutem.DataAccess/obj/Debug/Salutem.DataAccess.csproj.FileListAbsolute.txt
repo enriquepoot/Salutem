@@ -1,0 +1,9 @@
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.DataAccess\bin\Debug\Salutem.DataAccess.dll
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.DataAccess\bin\Debug\Salutem.DataAccess.pdb
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.DataAccess\bin\Debug\Quimank.Utilities.dll
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.DataAccess\bin\Debug\Salutem.Entities.dll
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.DataAccess\bin\Debug\Quimank.Utilities.pdb
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.DataAccess\bin\Debug\Salutem.Entities.pdb
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.DataAccess\obj\Debug\Salutem.DataAccess.dll
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.DataAccess\obj\Debug\Salutem.DataAccess.pdb

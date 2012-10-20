@@ -1,0 +1,5 @@
+D:\Projects\GIT\IPRM_Sinai\Salutem\Quimank.Utilities\bin\Debug\Quimank.Utilities.dll
+D:\Projects\GIT\IPRM_Sinai\Salutem\Quimank.Utilities\bin\Debug\Quimank.Utilities.pdb
+D:\Projects\GIT\IPRM_Sinai\Salutem\Quimank.Utilities\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\GIT\IPRM_Sinai\Salutem\Quimank.Utilities\obj\Debug\Quimank.Utilities.dll
+D:\Projects\GIT\IPRM_Sinai\Salutem\Quimank.Utilities\obj\Debug\Quimank.Utilities.pdb

@@ -1,0 +1,8 @@
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.Database\sql\debug\Salutem.Database_Script.PreDeployment.sql
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.Database\sql\debug\Salutem.Database_Script.PostDeployment.sql
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.Database\sql\debug\Salutem.Database_Database.sqlsettings
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.Database\sql\debug\Salutem.Database_Database.sqldeployment
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.Database\sql\debug\Salutem.Database_Database.sqlcmdvars
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.Database\sql\debug\Salutem.Database.deploymanifest
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.Database\sql\debug\Salutem.Database.dbschema
+D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.Database\obj\Debug\Salutem.Database.dbschema

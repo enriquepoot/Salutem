@@ -1,0 +1,146 @@
+﻿html,
+body
+{
+    font-family:"Segoe UI", Verdana, Helvetica, Sans-Serif;
+    background: url('/images/bgpatron_ec.png') repeat;
+    height:100%;
+    margin:0;
+    padding:0;
+    min-height:100%;
+}
+
+h1, h2, h3, p
+{
+    margin:0;
+    padding:0;
+}
+
+header footer #body
+{
+    display:block;
+    width:100%;
+    float:left;
+}
+
+header #border
+{
+    display:block;
+    width:100%;
+    height:30px;
+    background-color:#000000;
+}
+
+header #titulo_principal
+{
+    width:85%;
+    background-color:White;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+img.logo
+{
+    margin-top:15pX;
+    margin-bottom:15px;
+    margin-left:25px;
+    margin-right:10px;
+    width:5%;
+}
+
+img.slogan
+{
+    margin-top:15pX;
+    margin-bottom:15px;
+    margin-left:0px;
+    margin-right:10px;
+    width:20%;
+}
+
+#body
+{
+    height:auto;
+}
+
+#body .contenido
+{
+    width:85%;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:#c2e268;
+    height:100%;
+    padding:15px;
+}
+
+#body .contenido div
+{
+    overflow:auto;
+}
+
+footer
+{
+    width:85%;
+    clear: both;
+    background-color: #00923F;
+    font-size: .8em;
+    height: 40px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+footer .contenido
+{
+    padding:10px 35px 10px 30px;
+    font-weight:bold;
+    color:#ffffff;
+}
+
+/*---- Home ----*/
+
+#infoholder
+{
+    display:block;    
+}
+
+#infoholder #tema_mes
+{
+    background-color:#ffffff;
+    display:block;
+    margin-bottom:10px;
+    text-align:center;
+    font-weight:bold;
+}
+
+#infoholder #info
+{
+    float:left;
+    margin-right:10px;
+    background-color:#ffffff;
+    display:block;
+    width:220px;
+    padding:10px;
+}
+
+#infoholder #info #ministerios
+{
+    padding-bottom:10px;
+}
+
+#infoholder #message
+{
+    float:left;
+    margin-right:10px;
+    background-color:#ffffff;
+    display:block;
+    width:615px;
+    padding:10px;
+}
+
+#infoholder #facebook
+{  
+    float: right;
+    display:block;
+    background-color:#ffffff;
+    padding:10px;
+}
+
