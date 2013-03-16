@@ -15,7 +15,7 @@ AS
 		end
 	else
 		begin
-			update Person set UserIdentifier = @UserIdentifier, PasswordHash = @PasswordHash, PasswordSalt = @PasswordSalt, PersonID = @PersonID, 
+			update Access set UserIdentifier = @UserIdentifier, PasswordHash = @PasswordHash, PasswordSalt = @PasswordSalt, PersonID = @PersonID, 
 			MdDt = GETDATE(), Deleted = ISNULL(@Deleted, Deleted) where ID = @ID;
 			select @ID;
 		end
