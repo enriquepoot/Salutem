@@ -9,3 +9,5 @@ D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.TestAll\bin\Debug\Salutem.DataAccess.
 D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.TestAll\bin\Debug\Salutem.Entities.pdb
 D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.TestAll\obj\x86\Debug\Salutem.TestAll.exe
 D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.TestAll\obj\x86\Debug\Salutem.TestAll.pdb
+D:\Projects\GIT\Salutem\Salutem.TestAll\obj\x86\Debug\Salutem.TestAll.exe
+D:\Projects\GIT\Salutem\Salutem.TestAll\obj\x86\Debug\Salutem.TestAll.pdb
