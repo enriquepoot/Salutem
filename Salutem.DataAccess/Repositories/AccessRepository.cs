@@ -11,6 +11,11 @@ namespace Salutem.DataAccess.Repositories
 {
     public class AccessRepository : BaseRepository<Access>, IAccessRepository
     {
+        public AccessRepository(string connectionString) :
+            base(connectionString)
+        {
+        }
+
         public override Access ConvertFrom(System.Data.IDataReader rd)
         {
             var entity = new Access();

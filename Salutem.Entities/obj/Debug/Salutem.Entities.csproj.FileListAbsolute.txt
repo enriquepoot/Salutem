@@ -5,3 +5,10 @@ D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.Entities\bin\Debug\Quimank.Utilities.
 D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.Entities\obj\Debug\ResolveAssemblyReference.cache
 D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.Entities\obj\Debug\Salutem.Entities.dll
 D:\Projects\GIT\IPRM_Sinai\Salutem\Salutem.Entities\obj\Debug\Salutem.Entities.pdb
+D:\Projects\GIT\Salutem\Salutem.Entities\bin\Debug\Salutem.Entities.dll
+D:\Projects\GIT\Salutem\Salutem.Entities\bin\Debug\Salutem.Entities.pdb
+D:\Projects\GIT\Salutem\Salutem.Entities\bin\Debug\Quimank.Utilities.dll
+D:\Projects\GIT\Salutem\Salutem.Entities\bin\Debug\Quimank.Utilities.pdb
+D:\Projects\GIT\Salutem\Salutem.Entities\obj\Debug\Salutem.Entities.csprojResolveAssemblyReference.cache
+D:\Projects\GIT\Salutem\Salutem.Entities\obj\Debug\Salutem.Entities.dll
+D:\Projects\GIT\Salutem\Salutem.Entities\obj\Debug\Salutem.Entities.pdb

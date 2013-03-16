@@ -1,11 +1,12 @@
-﻿using System;
+﻿using Quimank.Utilities.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
 namespace Salutem.Entities
 {
-    public class Access
+    public class Access : EntityBase
     {
         #region properties
         private string _userIdentifier;
